@@ -1,0 +1,47 @@
+# Documentation and PDF files
+*.pdf
+*.doc
+*.docx
+*.tex
+
+# Compressed files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Keep visualization files
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+
+# Keep exercise files
+!Exercise*/
+!ex*/
