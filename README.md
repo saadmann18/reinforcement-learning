@@ -3,8 +3,7 @@
 **University:** Paderborn University  
 **Course:** Reinforcement Learning  
 **Semester:** Summer Semester 2020 (April - September)  
-**Instructor:** Prof. Dr.  
-**TA:**  
+
 
 ## Course Overview
 
